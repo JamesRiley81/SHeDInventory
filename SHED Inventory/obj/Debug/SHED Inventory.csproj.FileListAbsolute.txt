@@ -1,0 +1,54 @@
+C:\Users\Shed\Desktop\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe.config
+C:\Users\Shed\Desktop\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe
+C:\Users\Shed\Desktop\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.pdb
+C:\Users\Shed\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED_Inventory.Inventory.resources
+C:\Users\Shed\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED_Inventory.Properties.Resources.resources
+C:\Users\Shed\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.csproj.GenerateResource.Cache
+C:\Users\Shed\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.exe
+C:\Users\Shed\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.pdb
+C:\Users\Student\Desktop\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe.config
+C:\Users\Student\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.exe
+C:\Users\Student\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.pdb
+C:\Users\Student\Desktop\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe
+C:\Users\Student\Desktop\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.pdb
+C:\Users\Student\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED_Inventory.Inventory.resources
+C:\Users\Student\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED_Inventory.Properties.Resources.resources
+C:\Users\Student\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.csproj.GenerateResource.Cache
+C:\Users\Vestia\Desktop\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe.config
+C:\Users\Vestia\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.exe
+C:\Users\Vestia\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.pdb
+C:\Users\Vestia\Desktop\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe
+C:\Users\Vestia\Desktop\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.pdb
+C:\Users\Vestia\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Vestia\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED_Inventory.Inventory.resources
+C:\Users\Vestia\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED_Inventory.Properties.Resources.resources
+C:\Users\Vestia\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.csproj.GenerateResource.Cache
+I:\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe.config
+I:\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.exe
+I:\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.pdb
+C:\Users\shed\Desktop\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.csprojResolveAssemblyReference.cache
+Y:\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe.config
+Y:\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.exe
+Y:\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.pdb
+Y:\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe
+Y:\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.pdb
+Y:\SHED Inventory\SHED Inventory\obj\Debug\SHED_Inventory.Inventory.resources
+Y:\SHED Inventory\SHED Inventory\obj\Debug\SHED_Inventory.Properties.Resources.resources
+Y:\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.csproj.GenerateResource.Cache
+W:\AlmaInventory\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe.config
+W:\AlmaInventory\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.exe
+W:\AlmaInventory\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.pdb
+W:\AlmaInventory\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.csprojResolveAssemblyReference.cache
+W:\AlmaInventory\SHED Inventory\SHED Inventory\obj\Debug\SHED_Inventory.Inventory.resources
+W:\AlmaInventory\SHED Inventory\SHED Inventory\obj\Debug\SHED_Inventory.Properties.Resources.resources
+W:\AlmaInventory\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.csproj.GenerateResource.Cache
+W:\AlmaInventory\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.exe
+W:\AlmaInventory\SHED Inventory\SHED Inventory\bin\Debug\SHED Inventory.pdb
+Y:\SHED Inventory\SHED Inventory\obj\Debug\SHED Inventory.csprojResolveAssemblyReference.cache
+Y:\SHED Inventory\SHED Inventory\bin\Debug\Spire.Doc.dll
+Y:\SHED Inventory\SHED Inventory\bin\Debug\Spire.License.dll
+Y:\SHED Inventory\SHED Inventory\bin\Debug\Spire.Pdf.dll
+Y:\SHED Inventory\SHED Inventory\bin\Debug\Microsoft.mshtml.dll
+Y:\SHED Inventory\SHED Inventory\bin\Debug\Spire.Doc.xml
+Y:\SHED Inventory\SHED Inventory\bin\Debug\Spire.License.xml
